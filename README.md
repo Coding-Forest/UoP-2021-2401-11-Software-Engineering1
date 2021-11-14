@@ -6,6 +6,12 @@ Count: 11
 
 <br>
 
+## Course Objectives
+
+### Pivotal Concepts
+
+<br> 
+
 ## Content
 [Unit 1](#unit1)  
 [Unit 2](#unit2)   
@@ -23,6 +29,19 @@ Count: 11
 
 [[👆top]](#top)
 
+### Unit objective
+  - A
+  - B
+
+### Terminology
+
+| Term | Explanation |
+| ----------- | ------------------------------------------------------------------------------|
+|  |  |
+|  |  |
+|  |  |
+
+
 ### Reading
 
 ### Research Notes
@@ -33,6 +52,18 @@ Count: 11
 ## <span id="unit2">Unit 2</span>
 
 [[👆top]](#top)
+
+### Unit objective
+  - A
+  - B
+
+### Terminology
+
+| Term | Explanation |
+| ----------- | ------------------------------------------------------------------------------|
+|  |  |
+|  |  |
+|  |  |
 
 ### Reading
 
@@ -46,6 +77,18 @@ Count: 11
 
 [[👆top]](#top)
 
+### Unit objective
+  - A
+  - B
+
+### Terminology
+
+| Term | Explanation |
+| ----------- | ------------------------------------------------------------------------------|
+|  |  |
+|  |  |
+|  |  |
+
 ### Reading
 
 ### Research Notes
@@ -56,6 +99,18 @@ Count: 11
 ## <span id="unit4">Unit 4</span>
 
 [[👆top]](#top)
+
+### Unit objective
+  - A
+  - B
+
+### Terminology
+
+| Term | Explanation |
+| ----------- | ------------------------------------------------------------------------------|
+|  |  |
+|  |  |
+|  |  |
 
 ### Reading
 
@@ -68,6 +123,18 @@ Count: 11
 
 [[👆top]](#top)
 
+### Unit objective
+  - A
+  - B
+
+### Terminology
+
+| Term | Explanation |
+| ----------- | ------------------------------------------------------------------------------|
+|  |  |
+|  |  |
+|  |  |
+
 ### Reading
 
 ### Research Notes
@@ -78,6 +145,18 @@ Count: 11
 ## <span id="unit6">Unit 6</span>
 
 [[👆top]](#top)
+
+### Unit objective
+  - A
+  - B
+
+### Terminology
+
+| Term | Explanation |
+| ----------- | ------------------------------------------------------------------------------|
+|  |  |
+|  |  |
+|  |  |
 
 ### Reading
 
@@ -90,6 +169,18 @@ Count: 11
 
 [[👆top]](#top)
 
+### Unit objective
+  - A
+  - B
+
+### Terminology
+
+| Term | Explanation |
+| ----------- | ------------------------------------------------------------------------------|
+|  |  |
+|  |  |
+|  |  |
+
 ### Reading
 
 ### Research Notes
@@ -101,6 +192,17 @@ Count: 11
 
 [[👆top]](#top)
 
+### Unit objective
+  - A
+  - B
+
+### Terminology
+
+| Term | Explanation |
+| ----------- | ------------------------------------------------------------------------------|
+|  |  |
+|  |  |
+|  |  |
 
 ### Reading
 
@@ -114,6 +216,18 @@ Count: 11
 ## <span id="unit9">Unit 9</span>
 
 [[👆top]](#top)
+
+### Unit objective
+  - A
+  - B
+
+### Terminology
+
+| Term | Explanation |
+| ----------- | ------------------------------------------------------------------------------|
+|  |  |
+|  |  |
+|  |  |
 
 ### Reading
 
