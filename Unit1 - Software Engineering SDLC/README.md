@@ -162,11 +162,77 @@ Recurring issues of software design
 
 [[👆top]](#top) 
 
+  - An **object** is a software packaging of data and code together into a unit within a running computer program.
 
+  - A **method** is a function (also known as operation, procedure, or subroutine) associated with an object so that other objects can call on its services.
 
+  - An **interface** specifies object’s
+behavior—what kind of calls it accepts and what it does in response to each call.
+    - The *services presented to a client object* comprise the **interface**. The interface is the fundamental *means of communication between objects*. Any behavior that an object provides *must be invoked by a message* sent using one of the provided interface methods.
 
+  - An **attribute** is an item of data named by an identifier that represents some information about the object
+
+  -  A **class** is a collection of objects that share the same set of attributes
+and methods.
+  
+  - When an **instance** object is created, we say that the objects are **instantiated**.
+  
+  - A **constructors** is a smpecial method which is called at the creation of an
+object to “construct” the values of object’s data members (attributes).
 
 <br>
+
+#### Reductionism, modularity, and structuralism
+
+  - The concept of objects allows us to divide software into smaller pieces to make it manageable. 
+  - The “object orientation” is along the lines of the reductionism paradigm.
+
+  - A design is **modular** when each activity of the system is performed by exactly one unit, and when inputs and outputs of each unit are well defined.
+
+  - **Encapsulation**: is the process of packaging your program, dividing its classes into the public interface and the private implementation.
+
+<br>
+
+#### Object orientation
+  - Controlling access to object elements, known as encapsulation
+  - Object responsibilities and relationships
+  - Reuse and extension by inheritance and composition 
+
+"*Many programming languages allow making the internal state directly accessible through a variable manipulation, which is a bad practice. Instead, the access to object’s data should be controlled. The external state should be exposed through method calls, *"
+
+<br>
+
+### Access in java
+
+  - Access to object attributes and methods is controlled using **access designations**, also known as visibility of attributes and methods.
+  - `public`: other objects can directly access the method or object attributes. 
+  - `private`: When an attribute or method is defined as `private`, only
+that specific object can access it
+  - `protected`: this modifier allows access by related objects
+ 
+**UML notations**
+  - ➕ for public, global visibility; 
+  - #️⃣ for protected visibility; 
+  - ➖ for private within-the class-only visibility
+
+  - Is-a relationship (hollow triangle symbol ∆ in UML diagrams): A class “inherits” from another class (a.k.a. base class, parent class, or superclass)
+  - Has-a relationship: A class “contains” another class 
+  - Composition relationship (filled diamond symbol ♦ in UML diagrams): The
+contained item is an integral part of the containing item, such as a leg in a desk
+  - Aggregation relationship (hollow diamond symbol ◊): The contained item is an element of a collection but it can also exist on its own, such as a desk in an office
+  - Uses-a relationship (arrow symbol ↓ in UML diagrams): A class “uses” another class
+  - Creates relationship: A class “creates” another class (calls a constructor method) 
+
+<br>
+
+### Object's responsibilities
+
+   The process of determining what the object should know (state) and what it should do (behavior) is known as assigning the responsibilities. What are object’s responsibilities? The key object responsibilities are:
+   
+  1. Knowing something (memorization of data or object attributes)
+  2. Doing something on its own (computation programmed in a “method”)
+  3. Calling methods of other objects (communication by sending messages)
+  
 
 ## References
 - Marsic, I. (2012). Software engineering. Rutgers Unversity. http://www.ece.rutgers.edu/~marsic/books/SE/book-SE_marsic.pdf. 
