@@ -6,6 +6,7 @@
 [1.2 Software Engineering Lifecycle](#chapter12)  
 [1.3 Case Studies](#chapter13)  
 [1.4 The Object Model](#chapter14)  
+[Quiz](#quiz)
 
 
 # Reading
@@ -233,6 +234,14 @@ contained item is an integral part of the containing item, such as a leg in a de
   2. Doing something on its own (computation programmed in a “method”)
   3. Calling methods of other objects (communication by sending messages)
   
+
+## <span id='quiz'>Quiz</span>
+
+  - **Concept maps** are expressed in terms of concepts and propositions, and are used to represent knowledge, beliefs, feelings, etc.
+
+  - **Encapsulation**
+    - Object oriented approach goes a step further by emphasizing state **encapsulation**, which means hiding the object state, so that it can be observed or modified
+only via object’s methods. This approach enables better control over interactions among the modules of an application. 
 
 ## References
 - Marsic, I. (2012). Software engineering. Rutgers Unversity. http://www.ece.rutgers.edu/~marsic/books/SE/book-SE_marsic.pdf. 
